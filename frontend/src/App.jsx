@@ -11,7 +11,6 @@ export default function ChatApp() {
           <Route element={<Chat />} path="/chat" />
         </Routes>
       </BrowserRouter>
-      
     </div>
   );
 }
